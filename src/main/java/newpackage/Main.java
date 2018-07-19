@@ -2,6 +2,6 @@ package newpackage;
 
 public class Main {
     int testMethod(){
-        return -20;
+        return -13;
     }
 }
