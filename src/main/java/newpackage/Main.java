@@ -1,7 +1,7 @@
 package newpackage;
 
 public class Main {
-    void testMethod(){
-        //zmiany
+    int testMethod(){
+        return -1;
     }
 }
